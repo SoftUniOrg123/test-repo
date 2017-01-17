@@ -1,6 +1,4 @@
 Hi my name is Venci. Nice to meet you.
-<<<<<<< HEAD
-resolvedConflict :P
-=======
-resolvedConflict :D 123
->>>>>>> origin/master
+
+new conflict
+
