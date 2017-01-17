@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 name = yyy
-
+final version
