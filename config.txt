@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 name=venci
 size=50
+=======
+name = Asen
+size = 100
+>>>>>>> origin/master
