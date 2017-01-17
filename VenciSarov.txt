@@ -4,3 +4,5 @@ resolvedConflict :P
 =======
 resolvedConflict :D 123
 >>>>>>> origin/master
+
+what ever
